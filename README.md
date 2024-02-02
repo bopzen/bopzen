@@ -8,8 +8,8 @@
 
 - 🏆 My Python Web Frameworks final project [BarberBook](https://github.com/bopzen/SoftUni_Python_Web_Project_Defense_BarberBook) (free hosted here: http://barberbook.pythonanywhere.com/) won the SoftUni award for **BEST PROJECT** of the module **(1st Place)**
 
-### Coding Skills:
+### Coding and Tech Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,cs,js,html,css,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,cs,js,html,css,postgres,mysql,docker,azure,terraform,git,github,gitlab,postman,linux,powershell)](https://skillicons.dev)
 
 
