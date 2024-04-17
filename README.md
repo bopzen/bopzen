@@ -1,5 +1,5 @@
 # Hi, I am Boyan Todorov 👋 
-- 👨‍🎓 I am currently enrolled to the "Software Engineering with Python" Program at **SoftUni.bg** specializing as a **Full-Stack developer**. I have successfully graduated as a **Python Web Developer** at the end of 2023.
+- 👨‍🎓 I have just finished my specialization as a **Full-Stack developer** in the "Software Engineering with Python" Program at **SoftUni.bg** following my successful graduation as a **Python Web Developer** at the end of 2023.
 - 💻 Also gained valuable experience in **C#**, **JavaScript**, **HTML & CSS** and **SQL**.
 - 🌐 Personal website: https://bopzen.github.io
 
