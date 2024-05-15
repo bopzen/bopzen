@@ -1,10 +1,10 @@
 # Hi, I am Boyan Todorov 👋 
-- 👨‍🎓 I have just finished my specialization as a **Full-Stack developer** in the "Software Engineering with Python" Program at **SoftUni.bg** following my successful graduation as a **Python Web Developer** at the end of 2023.
+- 👨‍🎓 Graduated successfully as a **Python Full-Stack Developer** in the "Software Engineering with Python" Program at **SoftUni.bg** in May 2024
 - 💻 Also gained valuable experience in **C#**, **JavaScript**, **HTML & CSS** and **SQL**.
 - 🌐 Personal website: https://bopzen.github.io
 
 - 📜 SoftUni Certificates: [click here](https://github.com/bopzen/bopzen/tree/main/SoftUni%20Certificates)
-- 🎓 SoftUni Diploma - **Python Web Developer**: [click here](https://github.com/bopzen/bopzen/blob/main/SoftUni%20Diploma%20-%20Python%20Web%20Developer/Diploma%20for%20Python%20Web%20Developer.pdf)
+- 🎓 SoftUni Diplomas - **Python Web Developer**: [click here](https://github.com/bopzen/bopzen/blob/main/SoftUni%20Diploma%20-%20Python%20Web%20Developer/Diploma%20for%20Python%20Web%20Developer.pdf) | **Python Full-Stack Developer**: [click here](https://github.com/bopzen/bopzen/blob/main/SoftUni%20Diploma%20-%20Python%20Full-Stack%20Developer/Diploma%20for%20Python%20Full-Stack%20Developer.pdf)
 
 - 🏆 My Python Web Frameworks final project [BarberBook](https://github.com/bopzen/SoftUni_Python_Web_Project_Defense_BarberBook) (free hosted here: http://barberbook.pythonanywhere.com/) won the SoftUni award for **BEST PROJECT** of the module **(1st Place)**
 
