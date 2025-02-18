@@ -5,6 +5,7 @@
 - 💻 Experience with **C#**, **Python** **JavaScript**, **HTML & CSS** and **SQL**.
 - 🌐 Personal website: https://bopzen.github.io
 
+- 📜 Sirma Academy Certificate: [click here](https://github.com/bopzen/bopzen/tree/main/Sirma%20Academy%20Certificates)
 - 📜 SoftUni Certificates: [click here](https://github.com/bopzen/bopzen/tree/main/SoftUni%20Certificates)
 - 🎓 SoftUni Diplomas - **Python Web Developer**: [click here](https://github.com/bopzen/bopzen/blob/main/SoftUni%20Diploma%20-%20Python%20Web%20Developer/Diploma%20for%20Python%20Web%20Developer.pdf) | **Python Full-Stack Developer**: [click here](https://github.com/bopzen/bopzen/blob/main/SoftUni%20Diploma%20-%20Python%20Full-Stack%20Developer/Diploma%20for%20Python%20Full-Stack%20Developer.pdf)
 
