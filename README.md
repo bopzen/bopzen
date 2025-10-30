@@ -16,6 +16,6 @@
 
 ### Coding and Tech Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,cs,js,react,html,css,postgres,mysql,docker,azure,terraform,git,github,gitlab,postman,linux,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,cs,js,jquery,react,html,css,postgres,mysql,mongodb,docker,azure,terraform,git,github,gitlab,postman,linux,powershell)](https://skillicons.dev)
 
 
