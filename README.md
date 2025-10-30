@@ -1,8 +1,8 @@
 # Hi, I am Boyan Todorov - Software Developer .NET👋 
-- 👨‍🎓 Currently studying for a **C# Back-End Developer** in the "C# Back-End Track" Program at **Sirma Academy** expecting to graduate end of 2025
+- 👨‍🎓 Currently studying for a **C# Back-End Developer** in the "C# Back-End Track" Program at **Sirma Academy** expecting to graduate in the beginning of 2026
 - 👨‍🎓 Graduated successfully as a **JavaScript Front-End Developer** in the "JavaScript Front-End Track" Program at **Sirma Academy** in September 2024
 - 👨‍🎓 Graduated successfully as a **Python Full-Stack Developer** in the "Software Engineering with Python" Program at **SoftUni.bg** in May 2024
-- 💻 Experience with **C#**, **Python** **JavaScript**, **HTML & CSS** and **SQL**.
+- 💻 Experience with **C#**, **Python** **JavaScript**, **JQuery**, **React**, **HTML & CSS**, **SQL**, **MongoDB**.
 - 🌐 Personal website: https://bopzen.github.io
 
 
